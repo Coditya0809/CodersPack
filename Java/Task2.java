@@ -15,6 +15,9 @@ public class Task2 {
         if((a==1||a==0)&&(b==1||b==0)){
         System.out.println("The binary addition of "+a+" and "+b+" is "+s.addition(a, b));
         }
+        else{
+            System.out.print("You have not entered a valid binary number. Binary numbers are numbers which are either 0 or 1.\n");
+        }
     }
     
 }
