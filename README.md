@@ -1,7 +1,8 @@
 # CodersPack
 This repository contains task submissions for C, C++, Java, Python.
 
-TASKS-JAVA
+TASKS-JAVA:
+
 The files of tasks are located in the java folder and ordered in the following manner.
 
   1. Printing Area and Perimeter of a circle.
@@ -15,7 +16,8 @@ The files of tasks are located in the java folder and ordered in the following m
   9. Finding smallest among three numbers.
   10. Displaying the cubes of the integers upto a given integer.
   
-TASKS-PYTHON
+TASKS-PYTHON:
+
 The files of tasks are located in the Python folder and ordered in the following manner.
   1. Printing the area of the circle.
   2. Printing the extension of the given filename.
