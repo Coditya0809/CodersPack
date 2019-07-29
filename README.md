@@ -15,3 +15,6 @@ TASKS-JAVA
   9. Finding smallest among three numbers.
   10. Displaying the cubes of the integers upto a given integer.
   
+  TASKS-PYTHON
+  1. Printing the area of the circle.
+  2. Printing the extension of the given filename.
