@@ -21,3 +21,11 @@ TASKS-PYTHON:
 The files of tasks are located in the Python folder and ordered in the following manner.
   1. Printing the area of the circle.
   2. Printing the extension of the given filename.
+  3. Printing the length of the longest word in a list.
+  4. Printing a given string in upper and lower cases.
+  5. Converting month name into number of days in that month.
+  6. Checking whether the triangle is equilateral, isosceles or scalene.
+  7. Finding median of three values.
+  8. Multiplying all numbers in a list.
+  9. Counting number of even and odd numbers from a series of numbers.
+  10. Constructing a class named rectangle with length and width and defining a method to return its area.
