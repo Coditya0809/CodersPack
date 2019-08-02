@@ -11,7 +11,7 @@ public class SumOfDigits {
         n=s.nextInt();
         while(n%10!=n)
         {
-            n=n%9;
+            n=n%9;   //key line of code.
         }
         if(n%9!=0)System.out.println(n);
         else if(n%9==0 && n!=0) System.out.println(9);
