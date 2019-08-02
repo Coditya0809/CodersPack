@@ -8,6 +8,7 @@ The files of tasks are located in the java folder and ordered in the following m
   1. Printing Area and Perimeter of a circle.
   2. Addition of two binary numbers
   3. Computing sum of the digits of an integer.
+  
      Note: This also includes finding the sum of digits in a way that I found out annd I like to call this way the non-Roman way of                  calculating. The Romans never had a zero in their numbers. Don't worry! I have taken care of that in my method.
   4. Inches to Metres conversion.
   5. Converting minutes into number of years and days.
