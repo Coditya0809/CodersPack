@@ -13,7 +13,7 @@ public class Task3 {
         
         for(int i=n;i>0;i=i/10)
         {
-            sum_digits+=i%10;
+            sum_digits+=i%10;   //key line of code
         }
         System.out.println("The sum of the digits of the given integer is: "+sum_digits);
     }    
